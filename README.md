@@ -1,0 +1,1 @@
+This is a sample application to  train a model script in AWS Sagemaker  and deploy as an endpoint
